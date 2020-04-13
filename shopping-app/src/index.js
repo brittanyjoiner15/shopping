@@ -3,10 +3,12 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import * as serviceWorker from "./serviceWorker";
 import Item from "./ItemBox";
+import Balance from "./calculator";
 
 ReactDOM.render(
   <React.StrictMode>
     <h1>Shopping Game</h1>
+    <Balance></Balance>
     <Item></Item>
     <Item></Item>
     <Item></Item>

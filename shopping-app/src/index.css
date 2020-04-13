@@ -17,12 +17,20 @@ h1 {
 }
 
 .item {
+  position: relative;
   color: blue;
   width: 300px;
-  height: 300px;
+  height: 400px;
   border: 0.5em;
   border-color: aqua;
   border-style: solid;
   text-align: center;
   margin: 15px;
+}
+
+.totalBox {
+  border: 0.5em;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
 }
