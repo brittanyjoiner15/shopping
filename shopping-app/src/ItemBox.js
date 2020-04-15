@@ -19,6 +19,15 @@ class Item extends React.Component {
             <div className="item">
               <p>Product: {product.itemName}</p>
               <p>Price: {product.price}</p>
+              <button className="btn-primary mx-2">Buy</button>
+              <button className="btn-warning">Sell</button>
+              <br />
+              <img
+                className="my-3"
+                src={product.image}
+                alt="photo"
+                width="75%"
+              />
             </div>
           );
         })}
