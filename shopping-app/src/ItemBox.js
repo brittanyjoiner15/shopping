@@ -16,7 +16,7 @@ class Item extends React.Component {
       <div>
         {jsonData.Products.map((product, i) => {
           return (
-            <div>
+            <div className="item">
               <p>Product: {product.itemName}</p>
               <p>Price: {product.price}</p>
             </div>
