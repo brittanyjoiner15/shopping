@@ -1,22 +1,22 @@
 {
   "Products": [
     {
-      "itemName": "bush",
+      "itemName": "Bush",
       "price": 10,
       "image": "https://media.giphy.com/media/HHMS4OdZuhB60/giphy.gif"
     },
     {
-      "itemName": "pants",
+      "itemName": "Pants",
       "price": 15,
       "image": "https://media.giphy.com/media/LPPFDnKdb7zUc/giphy.gif"
     },
     {
-      "itemName": "shorts",
+      "itemName": "Shorts",
       "price": 25,
       "image": "https://media.giphy.com/media/Ewls2Z4v2QaIg/giphy.gif"
     },
     {
-      "itemName": "car",
+      "itemName": "Car",
       "price": 25000,
       "image": "https://media.giphy.com/media/3ov9jWu7BuHufyLs7m/giphy.gif"
     }

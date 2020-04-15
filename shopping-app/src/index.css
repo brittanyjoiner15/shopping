@@ -16,6 +16,10 @@ h1 {
   text-align: center;
 }
 
+.itemBox {
+  display: flex;
+}
+
 .item {
   position: relative;
   color: blue;
