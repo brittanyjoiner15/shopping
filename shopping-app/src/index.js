@@ -1,16 +1,12 @@
-import React from "react";
+import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import * as serviceWorker from "./serviceWorker";
-import Item from "./ItemBox";
-import MapTest from "./ItemBox";
-import Balance from "./calculator";
+import { App } from "./App";
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Shopping Game</h1>
-    <Balance></Balance>
-    <Item></Item>
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
@@ -19,3 +15,6 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+// component should be named same as file
+//
