@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.a033000e.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.e8b7aef8.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.e8b7aef8.chunk.js.map",
-    "runtime-main.js": "/react-tutorial/static/js/runtime-main.f27cc5f9.js",
-    "runtime-main.js.map": "/react-tutorial/static/js/runtime-main.f27cc5f9.js.map",
-    "static/js/2.b6563199.chunk.js": "/react-tutorial/static/js/2.b6563199.chunk.js",
-    "static/js/2.b6563199.chunk.js.map": "/react-tutorial/static/js/2.b6563199.chunk.js.map",
-    "index.html": "/react-tutorial/index.html",
-    "precache-manifest.da513345672941dee4fe9972ca14ee63.js": "/react-tutorial/precache-manifest.da513345672941dee4fe9972ca14ee63.js",
-    "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.a033000e.chunk.css.map": "/react-tutorial/static/css/main.a033000e.chunk.css.map",
-    "static/js/2.b6563199.chunk.js.LICENSE.txt": "/react-tutorial/static/js/2.b6563199.chunk.js.LICENSE.txt"
+    "main.css": "/shopping/shopping-app/static/css/main.a033000e.chunk.css",
+    "main.js": "/shopping/shopping-app/static/js/main.e4e799e6.chunk.js",
+    "main.js.map": "/shopping/shopping-app/static/js/main.e4e799e6.chunk.js.map",
+    "runtime-main.js": "/shopping/shopping-app/static/js/runtime-main.303ae640.js",
+    "runtime-main.js.map": "/shopping/shopping-app/static/js/runtime-main.303ae640.js.map",
+    "static/js/2.b6563199.chunk.js": "/shopping/shopping-app/static/js/2.b6563199.chunk.js",
+    "static/js/2.b6563199.chunk.js.map": "/shopping/shopping-app/static/js/2.b6563199.chunk.js.map",
+    "index.html": "/shopping/shopping-app/index.html",
+    "precache-manifest.22c034d9cbd2c32ee58e8811ad68d9ce.js": "/shopping/shopping-app/precache-manifest.22c034d9cbd2c32ee58e8811ad68d9ce.js",
+    "service-worker.js": "/shopping/shopping-app/service-worker.js",
+    "static/css/main.a033000e.chunk.css.map": "/shopping/shopping-app/static/css/main.a033000e.chunk.css.map",
+    "static/js/2.b6563199.chunk.js.LICENSE.txt": "/shopping/shopping-app/static/js/2.b6563199.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f27cc5f9.js",
+    "static/js/runtime-main.303ae640.js",
     "static/js/2.b6563199.chunk.js",
     "static/css/main.a033000e.chunk.css",
-    "static/js/main.e8b7aef8.chunk.js"
+    "static/js/main.e4e799e6.chunk.js"
   ]
 }
