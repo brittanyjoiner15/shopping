@@ -22,9 +22,6 @@ export class ItemBox extends React.Component {
               >
                 Buy
               </button>
-              <button className="btn-warning" name="sell">
-                Sell
-              </button>
               <br />
               <img
                 className="my-3"
